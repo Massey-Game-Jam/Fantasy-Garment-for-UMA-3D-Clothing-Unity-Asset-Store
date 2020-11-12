@@ -1,0 +1,35 @@
+{
+  "version": 3,
+  "backups": [
+    {
+      "name": "Fantasy Garment for UMA | 3D Clothing | Unity Asset Store",
+      "message": {
+        "embeds": [
+          {
+            "title": "Fantasy Garment for UMA | 3D Clothing | Unity Asset Store",
+            "description": "**The package contains a toolbox to create UMA wardrobes for a medieval fantasy environment. Each element exists for male and female characters:**\n- 54x2 slots\n- 189x2 overlays using 512x512 textures (diffuse, normal, metallic)\n- 87x2 prepared recipes\n\n**The garment is organized into the following basic groups:**\n- Body (inc. dress, robe, shirt, body armour, hauberk)\n. Headwear (incl. helmet, hat)\n- Footwear (incl. shoes, boots)\n- Legwear (incl. trousers, leg armor)\n- Handwear (incl. gloves and long gloves)\n\n**The package contains additionally:**\n- All textures as 2048x2048 png files\n- A MeshHide and SlotHide organization tool\n- Documentation which slots and overlays can be combined.\n- Documentation about the tools and how to replace the textures",
+            "color": 65292,
+            "fields": [
+              {
+                "name": "Check out the link below to watch the video:",
+                "value": "https://assetstore.unity.com/packages/3d/props/clothing/fantasy-garment-for-uma-159469#reviews"
+              }
+            ],
+            "author": {
+              "name": "Massey Game Jam Assets",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "footer": {
+              "text": "MasseyGameJam.Com",
+              "icon_url": "https://cdn.discordapp.com/attachments/742778030220640318/744606293482012712/ezgif-7-ce9239e319a0.gif"
+            },
+            "timestamp": "2020-11-12T02:56:00.000Z",
+            "image": {
+              "url": "https://assetstorev1-prd-cdn.unity3d.com/key-image/33b63e07-bd67-463f-8bc0-f26acb018ea4.png"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
